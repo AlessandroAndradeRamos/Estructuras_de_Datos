@@ -1,0 +1,10 @@
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\bin\Debug\Estructuras con arreglos.exe.config
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\bin\Debug\Estructuras con arreglos.exe
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\bin\Debug\Estructuras con arreglos.pdb
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras con arreglos.csprojResolveAssemblyReference.cache
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras_con_arreglos.frmMain.resources
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras_con_arreglos.Properties.Resources.resources
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras con arreglos.csproj.GenerateResource.Cache
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras con arreglos.csproj.CoreCompileInputs.cache
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras con arreglos.exe
+C:\Users\casa\Desktop\vectores ordenados\Estructuras con arreglos\obj\Debug\Estructuras con arreglos.pdb
